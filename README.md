@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=39FF14&style=flat-square" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=atul-kumar06&label=Profile+Views&color=39FF14&style=flat-square" alt="Profile Views" />
     </td>
   </tr>
 </table>
@@ -63,17 +63,17 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Atul's GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atul-kumar06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Atul's GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-kumar06&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-kumar06&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -81,13 +81,13 @@
 ## 🌐 Connect & Collaborate
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/atul-kumar-089570236/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">
+  <a href="mailto:ramkanaujia63@gamil.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
+  <a href="https://www.instagram.com/notyour_atul" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
