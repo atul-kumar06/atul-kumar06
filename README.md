@@ -60,20 +60,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atul-kumar06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Atul's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-kumar06&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=atul-kumar06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Atul's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=atul-kumar06&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
   
-  <br/>
+  <br/><br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-kumar06&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=atul-kumar06&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
